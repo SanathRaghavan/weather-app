@@ -1,0 +1,16 @@
+
+
+ .weatherapp{
+    background-image: url(https://giffiles.alphacoders.com/209/209277.gif);
+    
+    width: 100%;
+    background-size: cover;
+    min-height: 100vh;
+ }
+
+ .weather{
+    background-color: rgba(241, 245, 243, 0.342);
+ }
+
+ 
+ 
